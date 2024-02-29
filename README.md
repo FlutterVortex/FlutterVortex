@@ -12,7 +12,7 @@ const CrazyFlutterDev = {
     pronouns: "he" | "him",
     location: ["Dindoli, Surat"],
     contact: ["aayushpatel01411@gmail.com"],
-    collaborations: ["Red & White Multimedia", "Self Learner"],
+    collaborations: ["Self Learner"],
     workingOn: ["Flutter Development"],
     learning: ["C", "C++", "Dart", "Flutter", "Python"],
     askMeAbout: ["My Learnings", "Android Development", "Flutter Development"],
